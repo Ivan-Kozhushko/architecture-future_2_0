@@ -4,17 +4,17 @@
 
 - Apache Kafka
 - PostgreSQL
+- Golang
 
 ## TRIAL (Опробовать)
 
-- Apache Airflow
 - MinIO
 - Nessie
 - Dremio
 
 ## ASSESS (Оценить)
 
-- Golang
+- Apache Airflow
 
 ## HOLD (Придержать)
 
